@@ -2,7 +2,7 @@
 [WIP]
 
 ## Purpose
-Testing selenium to autmate bill downloads on Evo car share evo.ca [evo.ca]([https://evo.ca/login](https://evo-fo.vulog.center/login))
+Testing selenium to autmate bill downloads on Evo car share evo.ca [evo.ca](https://evo-fo.vulog.center/login)
 
 Download evo bills :
 - Automated login (user must create a auth.json file)
