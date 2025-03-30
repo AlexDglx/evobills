@@ -23,4 +23,3 @@ _auth.json file_ :
 - [ ] Download is skipping months
 - [ ] Add pdf reader function
 - [ ] Add parse pdf function
-- [ ] 
